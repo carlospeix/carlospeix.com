@@ -1,0 +1,34 @@
+name: Deploy Now
+
+on: [push]
+
+jobs:
+  deploy-now:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch project data
+        uses: ionos-deploy-now/retrieve-project-info-action@v1
+        id: project
+        with:
+          service-host: api-us.ionos.space
+          api-key: ${{ secrets.IONOS_API_KEY }}
+          project: 83bac741-7853-4193-8764-59b4cc6519b1
+      - name: checkout
+        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+      - name: Build project
+        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        uses: lemonarc/jekyll-action@1.0.0
+      - name: Deploy build
+        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        uses: ionos-deploy-now/deploy-to-ionos-action@v1
+        with:
+          service-host: api-us.ionos.space
+          api-key: ${{ secrets.IONOS_API_KEY }}
+          remote-host: ${{ steps.project.outputs.remote-host }}
+          dist-folder: _site
+          project: 83bac741-7853-4193-8764-59b4cc6519b1
+          storage-quota: ${{ steps.project.outputs.storage-quota }}
+          branch-id: ${{ steps.project.outputs.branch-id }}
