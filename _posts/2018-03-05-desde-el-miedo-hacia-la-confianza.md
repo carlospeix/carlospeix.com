@@ -1,7 +1,8 @@
 ---
 date:   2018-03-05 20:11:18 -0300
 title:  "Desde el miedo hacia la confianza"
-categories: [Agile, Empresa]
+author: Carlos Peix
+categories: ["Agilidad organizacional"]
 tags: [Cultura, Liderazgo, Transformación]
 ---
 
