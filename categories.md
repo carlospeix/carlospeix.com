@@ -1,7 +1,7 @@
 ---
 layout: page
+title: "Categorías"
 permalink: /categories/
-title: Categories
 ---
 
 <div id="archives">

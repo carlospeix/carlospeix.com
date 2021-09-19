@@ -30,6 +30,8 @@ twitter_username: carlospeix
 github_username:  carlospeix
 
 lang: sp
+show_excerpts: true
+#google_analytics: UA-NNNNNNNN-N
 
 # Build settings
 theme: minima
@@ -43,7 +45,14 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      author: "Carlos Peix"
       permalink: "/:year/:month/:title/"
+      excerpt_separator: <!--more-->
+
+header_pages:
+  - categories.md
+  - tags.md
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,7 +1,6 @@
 ---
 date:   2018-03-05 20:11:18 -0300
 title:  "Desde el miedo hacia la confianza"
-author: Carlos Peix
 categories: ["Agilidad organizacional"]
 tags: [Cultura, Liderazgo, Transformación]
 ---
@@ -13,6 +12,7 @@ tags: [Cultura, Liderazgo, Transformación]
 En este caso les propongo explorar la siguiente idea: buscar estos objetivos sin repensar los mecanismos de control y visibilidad es un error.
 
 Les comparto mi análisis, principalmente motivado por la re-lectura reciente de [La empresa emergente](https://books.google.com.ar/books?id=u6j5GhITAOwC), de Rafael Echeverría. Una lectura breve (menos de 160 páginas) e intensa, muy recomendada. También encontrarán elementos relacionados con Toyota Way y muchas otras lecturas.
+<!--more-->
 
 ## ¿Por qué? – La necesidad
 

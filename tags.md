@@ -1,7 +1,7 @@
 ---
 layout: page
+title: "Etiquetas"
 permalink: /tags/
-title: Tags
 ---
 
 <div id="archives">
