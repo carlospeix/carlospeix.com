@@ -1,8 +1,8 @@
 ---
 date:   2015-06-22 10:00:00 -0300
 title:  "Agile-Spain Open Space 2015"
-categories: ["Agilidad organizacional"]
-tags: [Estimación]
+categories: ["Comunidad"]
+tags: ["España"]
 ---
 
 ![Foto del AOS 2015](/assets/posts/2015-06-22-agile-spain-open-space-2015-1.jpg "Agile-Spain Open Space 2015")
