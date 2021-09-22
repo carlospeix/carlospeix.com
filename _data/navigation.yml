@@ -1,0 +1,8 @@
+
+main:
+  - title: "Categorías"
+    url: /categories/
+  - title: "Etiquetas"
+    url: /tags/
+  - title: "Acerca"
+    url: /about/
