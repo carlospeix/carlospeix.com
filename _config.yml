@@ -43,6 +43,12 @@ plugins:
   - jekyll-archives
   - jekyll-include-cache
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-22967558-1"
+    anonymize_ip: false
+
 category_archive:
   type: jekyll-archives
   path: /categories/
