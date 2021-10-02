@@ -9,5 +9,4 @@ setup:
 build:
   name: Build project
   environment:
-    JEKYLL_ENV: production
-  command: JEKYLL_ENV=production bundle exec jekyll build
+  command: bundle exec jekyll build
