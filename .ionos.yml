@@ -8,4 +8,6 @@ setup:
     bundler-cache: true
 build:
   name: Build project
+  environment:
+    JEKYLL_ENV: production
   command: bundle exec jekyll build
