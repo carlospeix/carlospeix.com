@@ -36,7 +36,8 @@ show_excerpts: true
 locale: "es"
 
 # Build settings
-theme: minimal-mistakes-jekyll # minima
+# theme: minimal-mistakes-jekyll # minima
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
