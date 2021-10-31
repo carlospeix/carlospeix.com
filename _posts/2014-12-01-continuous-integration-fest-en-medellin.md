@@ -7,7 +7,7 @@ tags: ["Medellín", "Software Craftmanship"]
 
 ![Foto de los asistentes](/assets/posts/2014-12-01-continuous-integration-fest-en-medellin-1.jpg "Continuous Integration Fest en Medellín")
 
-El sábado 15 de Noviembre, con el apoyo de [Ágiles Colombia](http://agilescolombia.org/), facilité una reunión en Eafit, en Medellín, cuya intención fue acercar las herramientas de integración continua a los desarrolladores que aún no las habían utilizado, al menos configurándolas con sus propias manos.
+El sábado 15 de Noviembre, con el apoyo de [Ágiles Colombia](https://agilescolombia.org/), facilité una reunión en Eafit, en Medellín, cuya intención fue acercar las herramientas de integración continua a los desarrolladores que aún no las habían utilizado, al menos configurándolas con sus propias manos.
 <!--more-->
 
 Los resultados, para mí, fueron asombrosos. Todos los equipos (en general de dos personas cada uno) lograron poner en marcha Jenkins, conectarlo con los repositorios, algunos públicos otros privados, algunos TFS, otros Subversion, otros Git y configurar su primer «build» automatizado.

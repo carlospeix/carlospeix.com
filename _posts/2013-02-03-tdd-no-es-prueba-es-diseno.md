@@ -7,7 +7,7 @@ tags: ["TDD", "Software Craftmanship"]
 
 En una de las últimas sesiones de coaching en la cual ayudé a un equipo a experimentar TDD, escuché una de las reacciones mas usuales ante el primer paso.
 
-Para definir el contexto, imaginen que van a escribir la famosa [kata tenis](http://codingdojo.org/cgi-bin/wiki.pl?KataTennis) y que aun no han escrito absolutamente nada de código. Una de las posibilidades es escribir esta prueba:
+Para definir el contexto, imaginen que van a escribir la famosa [kata tenis](https://codingdojo.org/cgi-bin/wiki.pl?KataTennis) y que aun no han escrito absolutamente nada de código. Una de las posibilidades es escribir esta prueba:
 <!--more-->
 
 ~~~ csharp

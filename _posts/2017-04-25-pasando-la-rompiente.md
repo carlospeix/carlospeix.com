@@ -39,4 +39,4 @@ Las organizaciones que transitan las rompientes actuales y llegan a la calma han
 
 Mi segundo aprendizaje es que, si desarrollamos las habilidades para conducirnos siempre en aguas turbulentas, estaremos mucho mejor como organización en constante evolución.
 
-No detallaré esas otras habilidades en este artículo. Les dejo una referencia [una carta](https://es.scribd.com/document/344982413/Amazon-2016-Letter-to-Shareholders) (en inglés) de Jeff Bezos a los accionistas y [un análisis](http://www.libremercado.com/2017-04-23/la-carta-de-jeff-bezos-que-todos-los-empresarios-deberian-leer-el-dia-2-es-igual-a-estancamiento-y-muerte-1276597375/) (en español) de esa carta.
+No detallaré esas otras habilidades en este artículo. Les dejo una referencia [una carta](https://es.scribd.com/document/344982413/Amazon-2016-Letter-to-Shareholders) (en inglés) de Jeff Bezos a los accionistas y [un análisis](https://www.libremercado.com/2017-04-23/la-carta-de-jeff-bezos-que-todos-los-empresarios-deberian-leer-el-dia-2-es-igual-a-estancamiento-y-muerte-1276597375/) (en español) de esa carta.

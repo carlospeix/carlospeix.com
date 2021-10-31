@@ -11,4 +11,4 @@ I specialize in agile methodologies, Scrum, DevOps, lean enterprise. I work on K
 
 ## Work
 
-I work at [Kleer](http://www.kleer.la/) with [awesome people](https://www.kleer.la/en/somos).
+I work at [Kleer](https://www.kleer.la/) with [awesome people](https://www.kleer.la/en/somos).

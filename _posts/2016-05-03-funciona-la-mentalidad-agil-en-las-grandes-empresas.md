@@ -33,7 +33,7 @@ Este enfoque:
 - es ineficiente, dado que pretende reemplazar todo, sin distinguir lo que funciona satisfactoriamente (y se podría conservar) de aquello que no.
 En cambio, si nos enfocamos y definimos métricas de resultado, serán estos los que promuevan el interés del negocio y habiliten la expansión de la iniciativa.
 
-Puedes probar con **pequeños cambios** en los procesos **diseñados y puestos en práctica por la persona que los vive**. Decidir acciones **basándonos en intereses** en lugar de posiciones también es un habilitador muy efectivo. También podemos enfocar el proceso desde la visión [Improvement Kata](http://www-personal.umich.edu/~mrother/The_Improvement_Kata.html) (en Inglés) o puedes ver un video de 15 minutos [aquí](https://www.youtube.com/watch?v=SX61jfsSe4I), en español, siempre **partiendo de la condición actual hacia una nueva situación objetivo**.
+Puedes probar con **pequeños cambios** en los procesos **diseñados y puestos en práctica por la persona que los vive**. Decidir acciones **basándonos en intereses** en lugar de posiciones también es un habilitador muy efectivo. También podemos enfocar el proceso desde la visión [Improvement Kata](https://www-personal.umich.edu/~mrother/The_Improvement_Kata.html) (en Inglés) o puedes ver un video de 15 minutos [aquí](https://www.youtube.com/watch?v=SX61jfsSe4I), en español, siempre **partiendo de la condición actual hacia una nueva situación objetivo**.
 
 ## ¿Alguien dijo “cambio”?
 
@@ -43,7 +43,7 @@ Si una transformación no está incorporando la gestión del cambio, o no lo est
 
 Un diferencial importante de la mentalidad ágil es que sus marcos de trabajo, valores y principios han sido pensados para abrazar el cambio.
 
-Algunos marcos específicos son [Open Agile Adoption](http://openspaceagility.com/) y [Lean Change Management](http://leanchange.org/), donde se combinan el **modelo iterativo-incremental, la experimentación y el aprendizaje emergente** para acompañar y potenciar los procesos de transformación.
+Algunos marcos específicos son [Open Agile Adoption](https://openspaceagility.com/) y [Lean Change Management](https://leanchange.org/), donde se combinan el **modelo iterativo-incremental, la experimentación y el aprendizaje emergente** para acompañar y potenciar los procesos de transformación.
 
 ## ¿Funcionará cuando se vayan los coaches ágiles?
 
@@ -75,4 +75,4 @@ Finalmente, la respuesta la pregunta planteada en el título del artículo es: S
 
 ## Agradecimientos
 
-Quiero agradecer a [Natalia Davidovich](https://ar.linkedin.com/in/nataliadavidovich), [Rodrigo Monelos](https://www.linkedin.com/in/rodrigo-monelos-99b0612) y al resto de los revisores en [equipo de Kleer](http://www.kleer.la/es/somos) con los que trabajo en transformación organizacional.
+Quiero agradecer a [Natalia Davidovich](https://ar.linkedin.com/in/nataliadavidovich), [Rodrigo Monelos](https://www.linkedin.com/in/rodrigo-monelos-99b0612) y al resto de los revisores en [equipo de Kleer](https://www.kleer.la/es/somos) con los que trabajo en transformación organizacional.

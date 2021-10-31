@@ -38,7 +38,7 @@ Las organizaciones maduras (finanzas, salud, seguros, etc) que están siendo pio
 
 Un ejemplo son los equipos quirúrgicos estables, donde los instrumentadores, anestesistas, cirujanos e, incluso, psicólogos trabajan con un profundo conocimiento producto de años de experiencia conjunta. Hay muchos más.
 
-Para más información sobre este tópico sugiero consultar el [modelo Tukman](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) y el trabajo de [Patrick Lencioni](http://www.tablegroup.com/pat).
+Para más información sobre este tópico sugiero consultar el [modelo Tukman](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) y el trabajo de [Patrick Lencioni](https://www.tablegroup.com/pat).
 
 Esta visión no es específica de la cirugía, de las estrategias militares, de equipos deportivos. Por ejemplo, en la industria fintech es usual tener equipos verticales para iniciativas innovadoras o estratégicas.
 

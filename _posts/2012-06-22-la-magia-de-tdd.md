@@ -5,7 +5,7 @@ categories: ["Comunidad", "Software"]
 tags: ["TDD", "Software Craftmanship"]
 ---
 
-Nos encontrábamos ayer en las oficinas de [Kleer](http://www.kleer.la/), en un Yoseki Codig Dojo, exclusivo para un equipo de un cliente, trabajando con la [Kata CheckOut](http://codekata.pragprog.com/2007/01/kata_nine_back_.html).
+Nos encontrábamos ayer en las oficinas de [Kleer](https://www.kleer.la/), en un Yoseki Codig Dojo, exclusivo para un equipo de un cliente, trabajando con la [Kata CheckOut](https://codekata.pragprog.com/2007/01/kata_nine_back_.html).
 
 Quiero contarles solo 3 minutos donde se notan las ventajas de diseñar nuestro código a partir del ejemplo.
 <!--more-->

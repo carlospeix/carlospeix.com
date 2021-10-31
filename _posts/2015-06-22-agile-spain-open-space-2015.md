@@ -10,11 +10,11 @@ tags: ["España"]
 Esta semana, que termina cuanto toco tierra en Buenos Aires, he viajado más que en cualquier otra, visitado muchas culturas: canarios, madrileños, sevillanos, y asturianos.
 <!--more-->
 
-Todo esto valió la pena pues he tenido, en el [AOS2015](http://aos2k15.agile-spain.org/), una inmersión de primera mano en la comunidad ágil española, vibrante y reflexiva, amable y combativa, liberal y conservadora. Única.
+Todo esto valió la pena pues he tenido, en el [AOS2015](https://aos2k15.agile-spain.org/), una inmersión de primera mano en la comunidad ágil española, vibrante y reflexiva, amable y combativa, liberal y conservadora. Única.
 
 Las sesiones fueron muy variadas en cuanto a profundidad como en temas. Afortunadamente hubo muchas sesiones introductorias que de seguro fueron de utilidad para las personas que se acercan por primera vez a la comunidad.
 
-Hubo tanto temas técnicos (prácticas y herramientas relacionadas con [Extreme Programming](http://www.extremeprogramming.org/)) como temas relacionadas con las metodologías y marcos de trabajo. Tampoco quedaron fuera temas relacionados con las personas y las culturas organizacionales y hasta sobre la ética.
+Hubo tanto temas técnicos (prácticas y herramientas relacionadas con [Extreme Programming](https://www.extremeprogramming.org/)) como temas relacionadas con las metodologías y marcos de trabajo. Tampoco quedaron fuera temas relacionados con las personas y las culturas organizacionales y hasta sobre la ética.
 
 En un párrafo especial quiero mencionar una sesión sobre la importancia del aprendizaje (tema sobre el cual he visto muchas sesiones). En esta sesión se presentaron dos proyectos en funcionamiento: [SenpaiDevs](https://twitter.com/SenpaiDevs) y [devscola](https://twitter.com/devscola). Pueden ver aquí la documentación visual que hice durante la sesión. Les dejo una documentación visual que hice sobre la sesión:
 

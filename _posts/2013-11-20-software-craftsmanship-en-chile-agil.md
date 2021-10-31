@@ -7,7 +7,7 @@ tags: ["Software Craftmanship"]
 
 Durante la semana pasada estuve trabajando en Santiago de Chile para dar un taller de desarrollo ágil de software.
 
-Como siempre que visito alguna ciudad, intento participar de alguna actividad de la comunidad. En este caso, [Agustín Villena](https://twitter.com/agustinvillena), [Pablo Cáceres](http://cl.linkedin.com/in/pablocaceresferreira) y [Chile Ágil](http://www.chileagil.cl/) organizaron una reunión para debatir sobre Software Craftsmanship en la [Universidad de las Américas](http://www.udla.cl/).
+Como siempre que visito alguna ciudad, intento participar de alguna actividad de la comunidad. En este caso, [Agustín Villena](https://twitter.com/agustinvillena), [Pablo Cáceres](https://cl.linkedin.com/in/pablocaceresferreira) y [Chile Ágil](https://www.chileagil.cl/) organizaron una reunión para debatir sobre Software Craftsmanship en la [Universidad de las Américas](https://www.udla.cl/).
 <!--more-->
 
 Comenzamos por establecer los objetivos de los presentes, es decir, que debería ocurrir en esa reunión para que cada uno se fuese satisfecho.
